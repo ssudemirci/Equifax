@@ -1,0 +1,139 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 11247000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I visit amazon.com page",
+            "match": {
+              "location": "com.equifax.step_definitions.AmazonStepDefinition.i_visit_amazon_com_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-04-17T09:15:01.112Z",
+        "line": 30,
+        "name": "End to End Functional Test",
+        "description": "",
+        "id": "end-to-end-functional-test;end-to-end-functional-test;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 3000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.equifax.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5288000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I search  a \"qa testing for beginners\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"qa testing for beginners\"",
+                  "offset": 12
+                }
+              ],
+              "location": "com.equifax.step_definitions.AmazonStepDefinition.i_search_a(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5306000000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I click on \"1\"  item on the listed results.",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.equifax.step_definitions.AmazonStepDefinition.i_click_on_item_on_the_listed_results(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1968000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I click on Add to Cart",
+            "match": {
+              "location": "com.equifax.step_definitions.AmazonStepDefinition.i_click_on_add_to_cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1033000000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I click on Proceed to checkout",
+            "match": {
+              "location": "com.equifax.step_definitions.AmazonStepDefinition.i_click_on_proceed_to_checkout()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 31000000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I verifies that page title is \"Amazon Sign-In\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Amazon Sign-In\"",
+                  "offset": 30
+                }
+              ],
+              "location": "com.equifax.step_definitions.AmazonStepDefinition.i_verifies_that_page_title_is(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      }
+    ],
+    "name": "End to End Functional Test",
+    "description": "  As I user, I should be able to buy item on amazon page",
+    "id": "end-to-end-functional-test",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/amazon.feature",
+    "tags": []
+  }
+]

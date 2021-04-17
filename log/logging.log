@@ -1,0 +1,283 @@
+2021-04-16 17:39:45 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 17:39:45 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 17:39:45 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 17:39:45 INFO  Hooks:24 - Test setup
+2021-04-16 17:39:59 INFO  Hooks:38 - :::: Ending automation :::
+2021-04-16 17:54:32 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 17:54:33 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 17:54:33 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 17:54:44 INFO  Hooks:37 - :::: Ending automation :::
+2021-04-16 17:57:09 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 17:57:09 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 17:57:09 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 17:57:21 INFO  Hooks:37 - :::: Ending automation :::
+2021-04-16 18:04:08 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 18:04:08 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 18:04:08 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 18:04:29 INFO  Hooks:37 - :::: Ending automation :::
+2021-04-16 18:04:43 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 18:04:43 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 18:04:43 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 18:04:58 INFO  Hooks:37 - :::: Ending automation :::
+2021-04-16 18:53:43 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 18:53:43 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 18:53:43 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 18:53:53 INFO  Hooks:37 - :::: Ending automation :::
+2021-04-16 19:11:20 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:11:20 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:11:20 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:11:35 INFO  Hooks:37 - :::: Ending automation :::
+2021-04-16 19:12:29 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:12:29 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:12:29 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:15:32 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:15:32 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:15:32 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:16:31 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:16:31 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:16:31 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:27:23 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:27:23 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:27:23 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:28:55 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:28:55 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:28:55 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:31:56 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:31:56 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:31:56 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:34:02 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:34:02 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:34:02 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:34:49 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:34:49 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:34:49 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:36:11 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:36:11 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:36:11 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:36:55 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:36:55 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:36:55 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:37:51 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:37:51 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:37:51 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:39:00 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:39:00 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:39:00 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:39:53 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:39:54 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:39:54 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:47:25 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:47:25 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:47:25 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:49:53 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:49:53 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:49:53 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:50:18 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 19:54:08 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:54:08 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:54:08 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:54:30 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 19:56:07 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:56:07 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:56:07 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:56:23 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 19:58:13 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:58:13 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:58:13 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:58:28 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 19:59:01 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:59:01 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:59:01 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 19:59:16 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 19:59:47 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 19:59:47 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 19:59:47 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 20:01:48 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 20:01:48 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 20:01:48 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 20:02:12 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 20:07:14 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 20:07:14 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 20:07:14 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 20:07:35 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 20:09:17 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 20:09:17 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 20:09:17 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 20:09:39 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 20:10:18 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 20:10:18 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 20:10:18 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 20:10:42 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 20:52:05 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 20:52:05 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 20:52:05 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 20:52:37 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 20:53:41 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 20:53:41 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 20:53:41 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 20:54:18 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 23:11:13 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 23:11:13 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 23:11:13 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 23:11:46 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 23:12:47 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 23:12:47 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 23:12:47 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 23:13:18 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 23:14:23 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 23:14:23 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 23:14:23 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 23:14:52 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 23:20:39 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 23:20:39 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 23:20:39 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 23:21:17 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 23:21:19 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 23:21:19 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 23:21:19 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 23:33:35 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 23:33:35 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 23:33:35 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 23:34:05 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 23:34:07 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 23:34:07 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 23:34:07 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 23:35:02 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 23:35:02 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 23:35:02 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 23:37:27 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 23:37:27 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 23:37:27 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 23:38:40 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 23:38:40 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 23:38:40 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 23:46:53 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 23:46:53 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 23:46:53 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-16 23:47:23 INFO  Hooks:32 - Taking a screenshot
+2021-04-16 23:47:24 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-16 23:47:24 INFO  Hooks:22 - Browser type: chrome
+2021-04-16 23:47:24 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 00:02:28 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 00:02:28 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 00:02:28 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 00:03:02 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 00:03:03 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 00:03:03 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 00:03:03 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 00:03:23 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 00:04:19 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 00:04:19 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 00:04:19 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 00:05:00 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 00:05:01 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 00:05:01 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 00:05:01 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 00:05:23 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 00:54:24 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 00:54:24 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 00:54:24 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 00:54:54 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 00:54:54 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 00:54:54 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 00:59:45 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 00:59:45 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 00:59:45 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 01:27:30 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 01:27:30 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 01:27:30 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 01:34:37 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 01:34:37 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 01:34:37 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 01:35:06 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 01:36:21 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 01:36:21 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 01:36:21 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 01:36:50 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 01:38:01 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 01:38:02 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 01:38:02 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 01:38:40 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 01:43:39 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 01:43:39 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 01:43:39 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 01:44:59 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 01:44:59 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 01:44:59 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 01:46:46 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 01:46:46 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 01:46:46 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 01:47:25 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 01:49:09 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 01:49:09 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 01:49:09 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 02:07:48 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 02:07:49 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 02:07:49 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 03:53:37 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 03:53:37 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 03:53:37 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 03:53:38 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 03:53:38 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 03:53:38 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 03:53:38 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 03:53:38 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 03:53:38 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:05:19 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:05:19 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:05:19 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:05:19 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:05:19 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:05:19 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:05:19 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:05:19 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:05:19 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:05:19 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:05:19 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:05:19 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:05:19 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:05:19 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:05:19 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:13:52 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:13:52 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:13:52 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:13:54 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 04:14:00 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:14:00 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:14:00 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:14:00 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 04:37:46 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:37:46 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:37:46 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:37:47 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 04:37:53 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:37:53 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:37:53 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:37:53 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 04:46:51 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:46:51 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:46:51 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:46:53 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 04:47:01 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:47:01 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:47:01 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:47:01 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 04:50:05 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:50:05 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:50:05 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:50:07 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:50:07 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:50:07 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:51:30 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:51:30 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:51:30 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:51:32 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 04:51:39 INFO  Hooks:21 - :::: Starting automation :::
+2021-04-17 04:51:39 INFO  Hooks:22 - Browser type: chrome
+2021-04-17 04:51:39 INFO  Hooks:23 - URL :https://www.amazon.com/
+2021-04-17 04:51:39 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 04:52:16 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 04:52:21 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 14:23:12 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 14:24:02 INFO  Hooks:32 - Taking a screenshot
+2021-04-17 14:37:24 INFO  Hooks:32 - Taking a screenshot
