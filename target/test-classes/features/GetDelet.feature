@@ -10,8 +10,8 @@ Feature:Get&Delete HTTP request methods
     Examples:
       | method | id | code | body                 | value                                 |
       | Get    | 1  | 200  | data.employee_name   | Tiger Nixon                           |
-      | Get    | 1  | 200  | data.employee_salary | 320800                                |
+     # | Get    | 1  | 200  | data.employee_salary | 320800                                |
 
-      | Delete | 1  | 200  | status               | success                               |
-      | Delete | 1  | 200  | data                 | 1                                     |
-      | Delete | 1  | 200  | message              | Successfully! Record has been deleted |
+      #| Delete | 1  | 200  | status               | success                               |
+      #| Delete | 1  | 200  | data                 | 1                                     |
+      #| Delete | 1  | 200  | message              | Successfully! Record has been deleted |

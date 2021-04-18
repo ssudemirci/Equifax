@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Equifax_ 1_Selenium_WebDriver_Page_Object_Model" />
+        <module name="Equifax" />
       </profile>
     </annotationProcessing>
   </component>
